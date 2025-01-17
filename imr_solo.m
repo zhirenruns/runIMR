@@ -27,9 +27,9 @@
 %
 % =========================================================================
 
-clc; %close all; 
+clc; close all; 
 clearvars;
-addpath('../graphics');
+addpath('graphics');
 
 %% Input parameters
 
