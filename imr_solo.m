@@ -72,7 +72,7 @@ p_ref = 1.17E11;            % Reference pressure (Pa)
 T_ref = 5.2E3;              % Reference temperature (K)
 
 %% Parameters for computation
-NY = 200;                   % # of mesh points for bubble content calculation
+NY = 500;                   % # of mesh points for bubble content calculation
 solver_RelTolX = 1E-7;      % Relative tolerance for ODE solver
 
 %% Intermediate & non-dimensionalization parameters
